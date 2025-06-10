@@ -1,6 +1,5 @@
 # PassGuard: A console-based password strength checker
 # Built to evaluate passwords with a human-friendly score and tips
-# No external libraries needed, just pure Python
 
 def check_password_strength(password):
     """Evaluate password strength based on length and character types."""
